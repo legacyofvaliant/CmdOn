@@ -1,8 +1,8 @@
-package net.nutchi.cmdon.listener;
+package com.github.e2318501.cmdon.listener;
 
 import lombok.RequiredArgsConstructor;
-import net.nutchi.cmdon.CmdOn;
-import net.nutchi.cmdon.Event;
+import com.github.e2318501.cmdon.CmdOn;
+import com.github.e2318501.cmdon.Event;
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
 import org.bukkit.event.player.PlayerLoginEvent;

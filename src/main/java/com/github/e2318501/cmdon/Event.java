@@ -1,4 +1,4 @@
-package net.nutchi.cmdon;
+package com.github.e2318501.cmdon;
 
 public enum Event {
     LOGIN,

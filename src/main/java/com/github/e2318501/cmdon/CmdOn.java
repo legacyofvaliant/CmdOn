@@ -1,6 +1,6 @@
-package net.nutchi.cmdon;
+package com.github.e2318501.cmdon;
 
-import net.nutchi.cmdon.listener.PlayerListener;
+import com.github.e2318501.cmdon.listener.PlayerListener;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandSender;
 import org.bukkit.plugin.PluginManager;

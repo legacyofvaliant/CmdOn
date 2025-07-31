@@ -1,8 +1,8 @@
 name: CmdOn
 version: '${project.version}'
-main: net.nutchi.cmdon.CmdOn
+main: com.github.e2318501.cmdon.CmdOn
 api-version: '1.19'
-author: Nutchi
+author: e2318501
 description: Execute commands on the specific event
 commands:
   cmdon:
